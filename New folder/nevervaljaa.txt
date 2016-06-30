@@ -1,2 +1,6 @@
 habadabada
+<<<<<<< HEAD
 porn
+=======
+2rinda
+>>>>>>> origin/master
