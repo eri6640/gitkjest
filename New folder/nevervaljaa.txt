@@ -1,2 +1,6 @@
 habadabada
+<<<<<<< HEAD
 gggg
+=======
+2rinda
+>>>>>>> origin/master
